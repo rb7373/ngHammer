@@ -1,0 +1,18 @@
+{
+  "name": "ngHammer",
+  "version": "0.0.1",
+  "homepage": "https://github.com/rb7373/ngHammer",
+  "authors": [
+    "rubenabix <rubenabix@gmail.com>"
+  ],
+  "description": "ngHammer",
+  "main": "js/nghammer.js",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
